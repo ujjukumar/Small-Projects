@@ -5,8 +5,7 @@ from words import get_random_word
 def get_num_attempts():
     """Get user-inputted number of incorrect attempts for the game."""
     while True:
-        num_attempts = input(
-            'How many incorrect attempts do you want? [1-25] ')
+        num_attempts = input('How many incorrect attempts do you want? [1-25] ')
         try:
             num_attempts = int(num_attempts)
             if 1 <= num_attempts <= 25:
@@ -14,14 +13,12 @@ def get_num_attempts():
             else:
                 print('{0} is not between 1 and 25'.format(num_attempts))
         except ValueError:
-            print('{0} is not an integer between 1 and 25'.format(
-                num_attempts))
+            print('{0} is not an integer between 1 and 25'.format(num_attempts))
 
 def get_min_word_length():
     """Get user-inputted minimum word length for the game."""
     while True:
-        min_word_length = input(
-            'What minimum word length do you want? [4-16] ')
+        min_word_length = input('What minimum word length do you want? [4-16] ')
         try:
             min_word_length = int(min_word_length)
             if 4 <= min_word_length <= 16:                 
@@ -55,11 +52,12 @@ def get_next_letter(remaining_letters):
             return next_letter 
 
 def play_hangman():
-    """Play a game of hangman.At the end of the game, returns if the player wants to retry."""
+    """Play a game of hangman. At the end of the game, returns if the player wants to retry."""
     # Let player specify difficulty
     print('Starting a game of Hangman...')     
     attempts_remaining = get_num_attempts()     
-    min_word_length = get_min_word_length()     
+    min_word_length = get_min_word_length()
+    
     # Randomly select a word     
     print('Selecting a word...')     
     word = get_random_word(min_word_length)     
@@ -67,7 +65,8 @@ def play_hangman():
     idxs = [letter not in ascii_lowercase for letter in word]     
     remaining_letters = set(ascii_lowercase)     
     wrong_letters = []     
-    word_solved = False     
+    word_solved = False
+    
     # Main game loop
     while attempts_remaining > 0 and not word_solved:
         # Print current game state
