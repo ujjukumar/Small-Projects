@@ -7,7 +7,6 @@
 import requests 
 from bs4 import BeautifulSoup 
 from tabulate import tabulate
-import numpy as np 
 import matplotlib.pyplot as plt
 
 def processData():	
@@ -59,7 +58,7 @@ def createStateData(allStatesList):
 	for row in allStatesList :
 		stateCases.append(int(row[2]) + int(row[3]))
 	
-	serialNum = np.arange(len(statesName))
+	serialNum = [x for x in range(32)]
 
 	return serialNum, statesName, stateCases
 
@@ -91,7 +90,7 @@ def main():
 	# For plotting
 	serialNum, statesName, stateCases = createStateData(allStatesList)
 	removeTotalCount(statesName, stateCases)
-	plotGraph(serialNum[:-1], statesName, stateCases) # Removing last count from serialNum
+	plotGraph(serialNum, statesName, stateCases) # Removing last count from serialNum
 
 if __name__ == "__main__":
 	main()
