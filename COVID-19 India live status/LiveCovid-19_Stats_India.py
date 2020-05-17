@@ -26,7 +26,9 @@ def processData():
 		if stateList: 
 			if len(stateList) == 5: 
 				allStatesList.append(stateList)
-	
+	# Removing last row as it doesn't contain states data.
+	del allStatesList[-1]
+
 	return allStatesList
 
 def addTotalCount(allStatesList):
@@ -59,7 +61,8 @@ def createStateData(allStatesList):
 	for row in allStatesList :
 		stateCases.append(int(row[2]) + int(row[3]))
 	
-	serialNum = [x for x in range(32)]
+	# Updating serialnum count from 32 to 33 for last row.
+	serialNum = [x for x in range(33)]
 
 	return serialNum, statesName, stateCases
 
