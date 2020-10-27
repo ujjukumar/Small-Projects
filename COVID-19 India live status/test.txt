@@ -1,0 +1,314 @@
+<table border="1" cellpadding="1" cellspacing="1" class="statetable table table-striped" style="font-weight:bold">
+<thead>
+<tr><h5>COVID-19 INDIA <span>as on : 01 October 2020, 08:00 IST (GMT+5:30)	[↑↓ Status change since yesterday]</span></h5></tr>
+<tr class="row1">
+<th rowspan="2" style="width:5%;"><strong>S. No.</strong></th>
+<th rowspan="2" style="width:24%;"><strong>Name of State / UT</strong></th>
+<th colspan="2" style="text-align:center;width:24%;"><strong>Active Cases*</strong></th>
+<th colspan="2" style="text-align:center;width:24%;"><strong>Cured/Discharged/Migrated*</strong></th>
+<th colspan="2" style="text-align:center;width:24%;"><strong>Deaths**</strong></th>
+</tr>
+<tr class="row2"><th style="width: 12%;">Total</th><th style="width: 12%;"><span class="mob-hide">Change since yesterday</span><span class="mob-show">Change since<br/> yesterday</span></th>
+<th style="width: 12%;">Cumulative</th><th style="width: 12%;">Change since yesterday</th>
+<th style="width: 12%;">Cumulative</th><th style="width: 12%;">Change since yesterday</th></tr>
+</thead>
+<!--<tbody>
+<tr>
+	<td>1</td>
+	<td>Andaman and Nicobar Islands</td>
+	<td>47</td>
+	<td>133</td>
+	<td>0</td>
+	</tr>
+	<tr>
+	
+	<td>2</td>
+	<td>Andhra Pradesh</td>
+	<td>18159</td>
+	<td>19393</td>
+	<td>492</td>
+	</tr>
+	
+	
+	<tr>
+	<td>3</td>
+	<td>Arunachal Pradesh</td>
+	<td>387</td>
+	<td>153</td>
+	<td>3</td>
+	</tr>
+	
+	<tr>
+	<td>4</td>
+	<td>Assam</td>
+	<td>6818</td>
+	<td>12888</td>
+	<td>48</td>
+	</tr>
+	
+	<tr>
+	<td>5</td>
+	<td>Bihar</td>
+	<td>7549</td>
+	<td>14018</td>
+	<td>197</td>
+	</tr>
+	
+	<tr>
+	<td>6</td>
+	<td>Chandigarh</td>
+	<td>164</td>
+	<td>476</td>
+	<td>11</td>
+	</tr>
+	
+	<tr>
+	<td>7</td>
+	<td>Chhattisgarh</td>
+	<td>1260</td>
+	<td>3451</td>
+	<td>21</td>
+	</tr>
+	<tr>
+	<td>8</td>
+	<td>Dadra and Nagar Haveli and Daman and Diu</td>
+	<td>179</td>
+	<td>371</td>
+	<td>2</td>
+	</tr>
+	
+	<tr>
+	<td>9</td>
+	<td>Delhi</td>
+	<td>17407</td>
+	<td>97693</td>
+	<td>3545</td>
+	</tr>
+	
+	<tr>
+	<td>10</td>
+	<td>Goa</td>
+	<td>1272</td>
+	<td>1817</td>
+	<td>19</td>
+	</tr>
+	
+	<tr>
+	<td>11</td>
+	<td>Gujarat</td>
+	<td>11289</td>
+	<td>32103</td>
+	<td>2089</td>
+	</tr>
+	
+	<tr>
+	<td>12</td>
+	<td>Haryana</td>
+	<td>5495</td>
+	<td>18185</td>
+	<td>322</td>
+	</tr>
+	
+	<tr>
+	<td>13</td>
+	<td>Himachal Pradesh</td>
+	<td>382</td>
+	<td>984</td>
+	<td>11</td>
+	</tr>
+	
+	<tr>
+	<td>14</td>
+	<td>Jammu and Kashmir</td>
+	<td>5488</td>
+	<td>6446</td>
+	<td>222</td>
+	</tr>
+	
+	<tr>
+	<td>15</td>
+	<td>Jharkhand</td>
+	<td>2069</td>
+	<td>2513</td>
+	<td>42</td>
+	</tr>
+	
+	<tr>
+	<td>16</td>
+	<td>Karnataka</td>
+	<td>30661</td>
+	<td>19729</td>
+	<td>1032</td>
+	</tr>
+	
+	<tr>
+	<td>17</td>
+	<td>Kerala</td>
+	<td>5376</td>
+	<td>4862</td>
+	<td>37</td>
+	</tr>
+	
+	<tr>
+	<td>18</td>
+	<td>Ladakh</td>
+	<td>176</td>
+	<td>970</td>
+	<td>1</td>
+	</tr>
+
+	<tr>
+	<td>19</td>
+	<td>Madhya Pradesh</td>
+	<td>5562</td>
+	<td>14127</td>
+	<td>689</td>
+	</tr>
+	
+	<tr>
+	<td>20</td>
+	<td>Maharashtra</td>
+	<td>114947</td>
+	<td>158140</td>
+	<td>11194</td>
+	</tr>
+	
+	<tr>
+	<td>21</td>
+	<td>Manipur</td>
+	<td>635</td>
+	<td>1129</td>
+	<td>0</td>
+	</tr>
+	
+	<tr>
+	<td>22</td>
+	<td>Meghalaya</td>
+	<td>309</td>
+	<td>66</td>
+	<td>2</td>
+	</tr>
+	
+	<tr>
+	<td>23</td>
+	<td>Mizoram</td>
+	<td>112</td>
+	<td>160</td>
+	<td>0</td>
+	</tr>
+	
+	<tr>
+	<td>24</td>
+	<td>Nagaland</td>
+	<td>525</td>
+	<td>391</td>
+	<td>0</td>
+	</tr>
+
+	<tr>
+	<td>25</td>
+	<td>Odisha</td>
+	<td>4436</td>
+	<td>10877</td>
+	<td>79</td>
+	</tr>
+
+	<tr>
+	<td>26</td>
+	<td>Puducherry</td>
+	<td>774</td>
+	<td>947</td>
+	<td>22</td>
+	</tr>
+
+	<tr>
+	<td>27</td>
+	<td>Punjab</td>
+	<td>2587</td>
+	<td>6277</td>
+	<td>230</td>
+	</tr>
+	
+	<tr>
+	<td>28</td>
+	<td>Rajasthan</td>
+	<td>6666</td>
+	<td>19970</td>
+	<td>538</td>
+	</tr>
+	
+	<tr>
+	<td>29</td>
+	<td>Sikkim</td>
+	<td>155</td>
+	<td>88</td>
+	<td>0</td>
+	</tr>
+
+	<tr>
+	<td>30</td>
+	<td>Tamil Nadu</td>
+	<td>46717</td>
+	<td>107416</td>
+	<td>2236</td>
+	</tr>
+	
+	<tr>
+	<td>31</td>
+	<td>Telangana</td>
+	<td>13327</td>
+	<td>27295</td>
+	<td>396</td>
+	</tr>
+	
+	<tr>
+	<td>32</td>
+	<td>Tripura</td>
+	<td>676</td>
+	<td>1604</td>
+	<td>3</td>
+	</tr>
+	
+	<tr>
+	<td>33</td>
+	<td>Uttarakhand</td>
+	<td>937</td>
+	<td>2995</td>
+	<td>50</td>
+	</tr>
+	
+	<tr>
+	<td>34</td>
+	<td>Uttar Pradesh</td>
+	<td>15720</td>
+	<td>26675</td>
+	<td>1046</td>
+	</tr>                    
+	
+	<tr>
+	<td>35</td>
+	<td>West Bengal</td>
+	<td>13679</td>
+	<td>21415</td>
+	<td>1023</td>
+	</tr>
+	<tr>
+	<td></td>
+	<td>Cases being reassigned to states</td>
+	<td>531</td>
+	<td></td>
+	<td></td>
+	</tr>
+	
+	<tr>
+	<td></td>
+	<td colspan="1"><strong><span>Total#</span></strong></td>
+	<td align = "right" style = "text-align:right;"><strong>342473</strong></td>
+	<td>
+	<strong>635757</strong>
+	</td>
+	<td>
+	<strong>25602</strong>
+	</td>
+	</tr>-->
+</table>
