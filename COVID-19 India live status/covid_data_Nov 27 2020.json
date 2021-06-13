@@ -1,0 +1,352 @@
+[
+    {
+        "Serial No.": 1,
+        "State": "Andaman and Nicobar Islands",
+        "Total Active Cases": 130,
+        "Change in Active Cases": 7,
+        "Total Cases": 4491,
+        "Change in Total Cases": 12,
+        "Total Death": 61,
+        "Change in Total Death": 0
+    },
+    {
+        "Serial No.": 2,
+        "State": "Andhra Pradesh",
+        "Total Active Cases": 12615,
+        "Change in Active Cases": 58,
+        "Total Cases": 846120,
+        "Change in Total Cases": 1081,
+        "Total Death": 6970,
+        "Change in Total Death": 8
+    },
+    {
+        "Serial No.": 3,
+        "State": "Arunachal Pradesh",
+        "Total Active Cases": 926,
+        "Change in Active Cases": 42,
+        "Total Cases": 15229,
+        "Change in Total Cases": 72,
+        "Total Death": 49,
+        "Change in Total Death": 0
+    },
+    {
+        "Serial No.": 4,
+        "State": "Assam",
+        "Total Active Cases": 3285,
+        "Change in Active Cases": 8,
+        "Total Cases": 207908,
+        "Change in Total Cases": 142,
+        "Total Death": 978,
+        "Change in Total Death": 0
+    },
+    {
+        "Serial No.": 5,
+        "State": "Bihar",
+        "Total Active Cases": 5390,
+        "Change in Active Cases": 165,
+        "Total Cases": 225602,
+        "Change in Total Cases": 525,
+        "Total Death": 1243,
+        "Change in Total Death": 6
+    },
+    {
+        "Serial No.": 6,
+        "State": "Chandigarh",
+        "Total Active Cases": 1169,
+        "Change in Active Cases": 42,
+        "Total Cases": 15612,
+        "Change in Total Cases": 80,
+        "Total Death": 270,
+        "Change in Total Death": 4
+    },
+    {
+        "Serial No.": 7,
+        "State": "Chhattisgarh",
+        "Total Active Cases": 23957,
+        "Change in Active Cases": 719,
+        "Total Cases": 204198,
+        "Change in Total Cases": 2454,
+        "Total Death": 2801,
+        "Change in Total Death": 18
+    },
+    {
+        "Serial No.": 8,
+        "State": "Dadra and Nagar Haveli and Daman and Diu",
+        "Total Active Cases": 33,
+        "Change in Active Cases": 2,
+        "Total Cases": 3293,
+        "Change in Total Cases": 3,
+        "Total Death": 2,
+        "Change in Total Death": 0
+    },
+    {
+        "Serial No.": 9,
+        "State": "Delhi",
+        "Total Active Cases": 38734,
+        "Change in Active Cases": 447,
+        "Total Cases": 503717,
+        "Change in Total Cases": 4937,
+        "Total Death": 8811,
+        "Change in Total Death": 91
+    },
+    {
+        "Serial No.": 10,
+        "State": "Goa",
+        "Total Active Cases": 1316,
+        "Change in Active Cases": 35,
+        "Total Cases": 45340,
+        "Change in Total Cases": 111,
+        "Total Death": 685,
+        "Change in Total Death": 2
+    },
+    {
+        "Serial No.": 11,
+        "State": "Gujarat",
+        "Total Active Cases": 14529,
+        "Change in Active Cases": 242,
+        "Total Cases": 185058,
+        "Change in Total Cases": 1302,
+        "Total Death": 3922,
+        "Change in Total Death": 16
+    },
+    {
+        "Serial No.": 12,
+        "State": "Haryana",
+        "Total Active Cases": 20778,
+        "Change in Active Cases": 170,
+        "Total Cases": 203517,
+        "Change in Total Cases": 2267,
+        "Total Death": 2316,
+        "Change in Total Death": 25
+    },
+    {
+        "Serial No.": 13,
+        "State": "Himachal Pradesh",
+        "Total Active Cases": 7878,
+        "Change in Active Cases": 3,
+        "Total Cases": 29020,
+        "Change in Total Cases": 914,
+        "Total Death": 599,
+        "Change in Total Death": 14
+    },
+    {
+        "Serial No.": 14,
+        "State": "Jammu and Kashmir",
+        "Total Active Cases": 5275,
+        "Change in Active Cases": 11,
+        "Total Cases": 101363,
+        "Change in Total Cases": 471,
+        "Total Death": 1668,
+        "Change in Total Death": 5
+    },
+    {
+        "Serial No.": 15,
+        "State": "Jharkhand",
+        "Total Active Cases": 2169,
+        "Change in Active Cases": 9,
+        "Total Cases": 105258,
+        "Change in Total Cases": 218,
+        "Total Death": 961,
+        "Change in Total Death": 3
+    },
+    {
+        "Serial No.": 16,
+        "State": "Karnataka",
+        "Total Active Cases": 25335,
+        "Change in Active Cases": 426,
+        "Total Cases": 842499,
+        "Change in Total Cases": 1067,
+        "Total Death": 11726,
+        "Change in Total Death": 12
+    },
+    {
+        "Serial No.": 17,
+        "State": "Kerala",
+        "Total Active Cases": 64615,
+        "Change in Active Cases": 619,
+        "Total Cases": 516978,
+        "Change in Total Cases": 5970,
+        "Total Death": 2148,
+        "Change in Total Death": 27
+    },
+    {
+        "Serial No.": 18,
+        "State": "Ladakh",
+        "Total Active Cases": 961,
+        "Change in Active Cases": 75,
+        "Total Cases": 7154,
+        "Change in Total Cases": 29,
+        "Total Death": 113,
+        "Change in Total Death": 5
+    },
+    {
+        "Serial No.": 19,
+        "State": "Madhya Pradesh",
+        "Total Active Cases": 14199,
+        "Change in Active Cases": 457,
+        "Total Cases": 182544,
+        "Change in Total Cases": 1199,
+        "Total Death": 3209,
+        "Change in Total Death": 12
+    },
+    {
+        "Serial No.": 20,
+        "State": "Maharashtra",
+        "Total Active Cases": 87014,
+        "Change in Active Cases": 1526,
+        "Total Cases": 1668538,
+        "Change in Total Cases": 4815,
+        "Total Death": 46813,
+        "Change in Total Death": 65
+    },
+    {
+        "Serial No.": 21,
+        "State": "Manipur",
+        "Total Active Cases": 3245,
+        "Change in Active Cases": 3,
+        "Total Cases": 20798,
+        "Change in Total Cases": 158,
+        "Total Death": 249,
+        "Change in Total Death": 4
+    },
+    {
+        "Serial No.": 22,
+        "State": "Meghalaya",
+        "Total Active Cases": 947,
+        "Change in Active Cases": 32,
+        "Total Cases": 10524,
+        "Change in Total Cases": 36,
+        "Total Death": 110,
+        "Change in Total Death": 0
+    },
+    {
+        "Serial No.": 23,
+        "State": "Mizoram",
+        "Total Active Cases": 431,
+        "Change in Active Cases": 10,
+        "Total Cases": 3352,
+        "Change in Total Cases": 33,
+        "Total Death": 5,
+        "Change in Total Death": 0
+    },
+    {
+        "Serial No.": 24,
+        "State": "Nagaland",
+        "Total Active Cases": 1402,
+        "Change in Active Cases": 65,
+        "Total Cases": 9595,
+        "Change in Total Cases": 132,
+        "Total Death": 63,
+        "Change in Total Death": 2
+    },
+    {
+        "Serial No.": 25,
+        "State": "Odisha",
+        "Total Active Cases": 6102,
+        "Change in Active Cases": 110,
+        "Total Cases": 308839,
+        "Change in Total Cases": 737,
+        "Total Death": 1704,
+        "Change in Total Death": 17
+    },
+    {
+        "Serial No.": 26,
+        "State": "Puducherry",
+        "Total Active Cases": 544,
+        "Change in Active Cases": 4,
+        "Total Cases": 35687,
+        "Change in Total Cases": 16,
+        "Total Death": 609,
+        "Change in Total Death": 0
+    },
+    {
+        "Serial No.": 27,
+        "State": "Punjab",
+        "Total Active Cases": 7479,
+        "Change in Active Cases": 350,
+        "Total Cases": 137089,
+        "Change in Total Cases": 467,
+        "Total Death": 4710,
+        "Change in Total Death": 26
+    },
+    {
+        "Serial No.": 28,
+        "State": "Rajasthan",
+        "Total Active Cases": 27302,
+        "Change in Active Cases": 982,
+        "Total Cases": 227408,
+        "Change in Total Cases": 2179,
+        "Total Death": 2237,
+        "Change in Total Death": 19
+    },
+    {
+        "Serial No.": 29,
+        "State": "Sikkim",
+        "Total Active Cases": 268,
+        "Change in Active Cases": 32,
+        "Total Cases": 4501,
+        "Change in Total Cases": 20,
+        "Total Death": 102,
+        "Change in Total Death": 0
+    },
+    {
+        "Serial No.": 30,
+        "State": "Tamil Nadu",
+        "Total Active Cases": 11173,
+        "Change in Active Cases": 347,
+        "Total Cases": 753332,
+        "Change in Total Cases": 1797,
+        "Total Death": 11669,
+        "Change in Total Death": 14
+    },
+    {
+        "Serial No.": 31,
+        "State": "Telengana",
+        "Total Active Cases": 10839,
+        "Change in Active Cases": 55,
+        "Total Cases": 255378,
+        "Change in Total Cases": 702,
+        "Total Death": 1448,
+        "Change in Total Death": 4
+    },
+    {
+        "Serial No.": 32,
+        "State": "Tripura",
+        "Total Active Cases": 741,
+        "Change in Active Cases": 26,
+        "Total Cases": 31499,
+        "Change in Total Cases": 58,
+        "Total Death": 370,
+        "Change in Total Death": 0
+    },
+    {
+        "Serial No.": 33,
+        "State": "Uttarakhand",
+        "Total Active Cases": 4682,
+        "Change in Active Cases": 24,
+        "Total Cases": 67119,
+        "Change in Total Cases": 320,
+        "Total Death": 1196,
+        "Change in Total Death": 11
+    },
+    {
+        "Serial No.": 34,
+        "State": "Uttar Pradesh",
+        "Total Active Cases": 25422,
+        "Change in Active Cases": 546,
+        "Total Cases": 502353,
+        "Change in Total Cases": 1518,
+        "Total Death": 7674,
+        "Change in Total Death": 30
+    },
+    {
+        "Serial No.": 35,
+        "State": "West Bengal",
+        "Total Active Cases": 24670,
+        "Change in Active Cases": 82,
+        "Total Cases": 437604,
+        "Change in Total Cases": 3537,
+        "Total Death": 8224,
+        "Change in Total Death": 52
+    }
+]
